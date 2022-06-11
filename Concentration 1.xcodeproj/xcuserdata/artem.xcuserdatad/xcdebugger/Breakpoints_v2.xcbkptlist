@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "06AF9A50-B3A2-4AFF-956A-C9D347B8BE2B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB6B6577-9EF8-4843-A006-D253BCA418A5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Concentration 1/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "BB6B6577-9EF8-4843-A006-D253BCA418A5 - 2bb4f21150ba9f94"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Concentration_1.ViewController.touches.getter : Swift.Int"
+                  moduleName = "Concentration 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artem/Documents/Concentration%201/Concentration%201/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "BB6B6577-9EF8-4843-A006-D253BCA418A5 - 6219c13956dbd380"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Concentration_1.ViewController.touches.setter : Swift.Int"
+                  moduleName = "Concentration 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artem/Documents/Concentration%201/Concentration%201/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "102">
+               </Location>
+               <Location
+                  uuid = "BB6B6577-9EF8-4843-A006-D253BCA418A5 - eba8decaa839c097"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Concentration_1.ViewController.touches.modify : Swift.Int"
+                  moduleName = "Concentration 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artem/Documents/Concentration%201/Concentration%201/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "BB6B6577-9EF8-4843-A006-D253BCA418A5 - 7c1727018a050280"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Concentration_1.ViewController.touches.modify : Swift.Int with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Concentration 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artem/Documents/Concentration%201/Concentration%201/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "17">
+               </Location>
+               <Location
+                  uuid = "BB6B6577-9EF8-4843-A006-D253BCA418A5 - e7fb887084c410d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Concentration_1.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Concentration_1.ViewController"
+                  moduleName = "Concentration 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artem/Documents/Concentration%201/Concentration%201/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "BB6B6577-9EF8-4843-A006-D253BCA418A5 - 7698aad06e4757d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Concentration_1.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Concentration_1.ViewController&gt;"
+                  moduleName = "Concentration 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artem/Documents/Concentration%201/Concentration%201/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "149">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
